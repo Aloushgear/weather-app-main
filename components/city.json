@@ -1,0 +1,26 @@
+[
+      {
+        "city": "Abidjan", 
+        "country": "Côte D’Ivoire"
+      }, 
+      {
+        "city": "Bouaké", 
+        "country": "Côte D’Ivoire"
+      }, 
+      {
+        "city": "Yamoussoukro", 
+        "country": "Côte D’Ivoire" 
+      },
+      {
+        "city": "Bamako", 
+        "country": "Mali" 
+      },
+      {
+        "city": "London", 
+        "country": "Anglettere" 
+      },
+      {
+        "city": "Chicago", 
+        "country": "Etats-Unis"
+      }
+]

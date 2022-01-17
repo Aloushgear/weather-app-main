@@ -1,0 +1,2 @@
+export const GET_CITY_WITH_FETCH = 'GET_CITY_WITH_FETCH';
+export const REMOVE_CITY = 'REMOVE_CITY';
